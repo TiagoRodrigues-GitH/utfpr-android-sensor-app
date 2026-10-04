@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Tiago Rodrigues · Universidade Tecnológica Federal do Paraná (UTFPR) |
 | **Date** | 2026-05-11 |
-| **Context** | Postgraduate Program in Java Technologies, UTFPR Londrina |
+| **Context** | Postgraduate Program in Java Technologies, UTFPR |
 | **Stack** | Android · Java · Room · MVVM |
 
 > **Resumo (PT).** Aplicativo Android offline-first para coletar dados de sensores em campo sem internet, com arquitetura MVVM e persistência local em Room.
@@ -93,6 +93,6 @@ This project was developed as part of academic activities at the **Federal Unive
 
 <div align="center">
 
-**Academic Project** | UTFPR - Londrina Campus | 2026
+**Academic Project** | UTFPR | 2026
 
 </div>
