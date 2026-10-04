@@ -2,6 +2,15 @@
 
 **Android App for Field Sensor Data Collection and Monitoring**
 
+| | |
+|---|---|
+| **Author** | Tiago Rodrigues · Universidade Tecnológica Federal do Paraná (UTFPR) |
+| **Date** | 2026-05-11 |
+| **Context** | Postgraduate Program in Java Technologies, UTFPR Londrina |
+| **Stack** | Android · Java · Room · MVVM |
+
+> **Resumo (PT).** Aplicativo Android offline-first para coletar dados de sensores em campo sem internet, com arquitetura MVVM e persistência local em Room.
+
 <img width="282" height="217" alt="Screenshot 2026-05-11 142029" src="https://github.com/user-attachments/assets/a6f5f08b-b312-4e7f-b793-2b41dee85df3" />
 
 ---
